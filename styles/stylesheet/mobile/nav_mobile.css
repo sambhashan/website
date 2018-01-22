@@ -1,0 +1,44 @@
+
+.navbar-default {
+    background-color: #270726;
+    opacity: .87;
+    border-color: #4d4d4e;
+}
+
+.navbar-default .navbar-nav > li > a {
+    margin: 0px 20px 5px 20px;
+    color: white;
+    border: 0;
+    -webkit-transition: color 1s; /* For Safari 3.1 to 6.0 */
+    transition: color 1s;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #000000;
+    border: 1px solid;
+
+}
+
+.btn_register {
+
+    border-radius: 0px;
+    border: solid 1px !important;
+    color: white;
+}
+
+.nav-logo {
+    width: 100px;
+    height: auto;
+}
+
+.navbar-nav {
+    text-align: center;
+}
+
+.navbar-toggle:hover {
+    background-color: #3f243e;
+}
+
+.navbar-toggle {
+    background-color: #3f243e;
+}
